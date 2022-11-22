@@ -1,0 +1,68 @@
+body{
+    color: rgb(28, 26, 26);
+    background: white;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.form_control{
+    height: 40px;
+    background: antiquewhite;
+    box-shadow: none !important;
+    border: none;
+
+}
+
+.form_control,.btn{
+    border-radius: 4px;
+
+}
+
+.login_form1{
+    width: 400px;
+    margin: 35px auto;
+}
+
+.login_form1 h2{
+    color: aqua;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+.login_form1 hr{
+    margin: 0 -30px 20px;
+}
+
+.login_form1 .form_group{
+    margin-bottom:20px
+}
+
+.login_form1 .btn{        
+    font-size: 16px;
+    font-weight: bold;
+    background: #c37328e8;
+    border: none;
+    min-width: 140px;
+}
+.login_form1 .btn:hover, .signup-form .btn:focus{
+    background: #ffb048 !important;
+    outline: none;
+}
+/* .signup-form a{
+    color: #fff;
+    text-decoration: underline;
+}
+.signup-form a:hover{
+    text-decoration: none;
+}
+.signup-form form a{
+    color: #3598dc;
+    text-decoration: none;
+}	
+.signup-form form a:hover{
+    text-decoration: underline;
+}
+.signup-form .hint-text {
+    padding-bottom: 15px;
+    text-align: center;
+} */
